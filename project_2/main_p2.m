@@ -14,3 +14,4 @@ while(x0<x_max)
     i=i+1;
 end
 answer
+
